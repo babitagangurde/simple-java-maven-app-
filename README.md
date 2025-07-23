@@ -18,3 +18,4 @@ the "Deliver" stage of your Pipeline.
 
 making a change with poll scm option
 making second change with invoke maven targets
+making third change with invoke maven targets
