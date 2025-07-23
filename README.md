@@ -16,4 +16,5 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 
-making a change
+making a change with poll scm option
+making second change with invoke maven targets
